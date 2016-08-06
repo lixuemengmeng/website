@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font: 12px/1.5 tahoma,arial,\5b8b\4f53;
+}
+img{
+	border: 0;
+}
+li,ul{
+	list-style: none;
+}
+.wrapper{
+	height: 105px;
+	width: 990px;
+	position: absolute;
+	left: 50%;
+	margin-left: -495px;
+}
+a{
+	text-decoration: none;
+
+}
